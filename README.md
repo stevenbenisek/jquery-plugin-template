@@ -1,4 +1,4 @@
-# jQuery Plugin Template
+# jquery-plugin-template
 
 A simple object-oriented template for creating jQuery plugins. It allows you to
 maintain a [DRY](http://en.wikipedia.org/wiki/Don't_repeat_yourself) workflow
@@ -150,7 +150,7 @@ leaving no reference whatsoever.
 }(this, this.document, this.jQuery));
 ```
 
-## Usage
+## Example usage
 
 ### API
 
